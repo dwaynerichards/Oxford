@@ -1,0 +1,23 @@
+{
+  "name": "oxford",
+  "version": "1.0.0",
+  "description": "converting pdfs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwaynerichards/Oxford.git"
+  },
+  "author": "darkwingdw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwaynerichards/Oxford/issues"
+  },
+  "homepage": "https://github.com/dwaynerichards/Oxford#readme",
+  "devDependencies": {
+    "cloudconvert": "^2.3.0",
+    "prettier": "^2.7.1"
+  }
+}
